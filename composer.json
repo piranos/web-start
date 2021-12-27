@@ -1,0 +1,11 @@
+{
+    "name": "vendor/web-start",
+    "description": "Description of project web-start.",
+    "authors": [
+        {
+            "name": "deckhaus",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
