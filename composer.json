@@ -1,10 +1,10 @@
 {
-    "name": "vendor/web-start",
-    "description": "Description of project web-start.",
+    "name": "deckhaus/web-start",
+    "description": "de start van dit web",
     "authors": [
         {
-            "name": "deckhaus",
-            "email": "your@email.here"
+            "name": "David",
+            "email": "d.eckhaus@farmedvisie.nl"
         }
     ],
     "require": {
